@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>PC Componentes API Request</h1>
+    <div id="results"></div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        async function value() {
+            const resultsContainer = document.getElementById("results");
+            let data = '{data[';
+            let vs = 1;
+            for (let vs = 1; vs < 5; vs++) {
+                const apiUrl = `https://www.pccomponentes.pt/api-v1/products/search?query=jogos%20nintendo%20switch&sort=relevance&analytics=true&channel=pt&page=${vs}&pageSize=40&status[]=new&seller_type[]=pccomponentes_seller&families[]=1597`;
+
+
+                await axios.get(apiUrl)
+                    .then(response => {
+                        response.data.articles.forEach(product => {
+                            data += `{\"Jogo\":\"${product.name}\", \"Price\":${product.promotionalPrice != null ? product.promotionalPrice : product.originalPrice}, \"Url\":\"${'__/' + product.slug}\"},`;
+                        });
+
+                    })
+                    .catch(error => {
+                        console.error("Error fetching data:", error);
+                    });
+                console.log("done "+Math.floor((new Date()).getTime() / 1000))
+            }
+            resultsContainer.innerHTML = data.substring(0, data.length - 1) + ']}';
+        }
+        value(); 
+        const timer = setInterval(value, (1 * 60 * 1000));
+    </script>
+</body>
+
+</html>
