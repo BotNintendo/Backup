@@ -1,17 +1,17 @@
 {
-    "Publish": [
-        {
-            "DateTime":"2025-08-28T09:30:00Z",
-            "Image":"https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/kirby_and_the_forgotten_land_nintendo_switch_2_edition_star_crossed_world/2x1_NSwitch2_KirbyForgottenLandNS2EdSCW_GB_en_image1600w.jpg",
-            "Title":"Second Post",
-            "Description":"Kirby and the Forgotten Land \n– Nintendo Switch 2 Edition + Star-Crossed World\nna Nintendo Switch 2\n Preparados para aventurar no mundo perdido?",
-            "AudioYoutube":"https://youtu.be/Y0X0LIRlt_4",
-            "ImageTemplate":"",
-            "TypeOfFont": "./FontStyle.ttf",
-            "TypeOfColor": "white",
-            "Duraction_Video": 20,
-            "StartAudioTime": "00:00:10", 
-            "VolumeAudio": "volume=0.35"
-        }
-    ]
+  "Publish": [
+    {
+      "DateTime": "2025-08-28T09:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/kirby_and_the_forgotten_land_nintendo_switch_2_edition_star_crossed_world/2x1_NSwitch2_KirbyForgottenLandNS2EdSCW_GB_en_image1600w.jpg",
+      "Title": "Second Post",
+      "Description": "Kirby and the Forgotten Land \n– Nintendo Switch 2 Edition + Star-Crossed World\nna Nintendo Switch 2\n Preparados para aventurar no mundo perdido?",
+      "AudioYoutube": "https://youtu.be/Y0X0LIRlt_4",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 20,
+      "StartAudioTime": "00:00:10",
+      "VolumeAudio": "volume=0.35"
+    }
+  ]
 }
