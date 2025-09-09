@@ -1,1 +1,3 @@
-{    "Publish": [        {            "DateTime":"2025-09-09T09:30:00Z",        "Image":"https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Splatoon2_image1600w.jpg",            "Title":"Second Post",            "Description":"Hoje faz 8 anos \n que Splatoon 2 foi lançado\nna Nintendo Switch\n",            "AudioYoutube":"https://youtu.be/P3vZN0kJnyM?list=RDP3vZN0kJnyM",            "ImageTemplate":"",            "TypeOfFont": "./FontStyle.ttf",            "TypeOfColor": "white",            "Duraction_Video": 20,            "StartAudioTime": "00:01:00",             "VolumeAudio": "volume=0.35"        }    ]}
+{
+  "Publish": []
+}
