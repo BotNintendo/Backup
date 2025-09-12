@@ -1,17 +1,3 @@
 {
-  "Publish": [
-        {
-            "DateTime":"2025-09-12T11:30:00Z",
-            "Image":"https://pbs.twimg.com/media/G0osQMAXEAAufdz?format=jpg",
-            "Title":"Second Post",
-            "Description":"Nintendo Direct a começar \n Preaparados para os proximos\n 60 minutos?\n\n Eu acho que não",
-            "AudioYoutube":"https://www.youtube.com/watch?v=jWENJcYEnrw",
-            "ImageTemplate":"",
-            "TypeOfFont": "./FontStyle.ttf",
-            "TypeOfColor": "white",
-            "Duraction_Video": 20,
-            "StartAudioTime": "00:00:00", 
-            "VolumeAudio": "volume=0.25"
-        }
-    ]
+  "Publish": []
 }
