@@ -1,19 +1,6 @@
 {
   "Publish": [
     {
-      "DateTime": "2025-10-02T11:30:00Z",
-      "Image": "https://assetsio.gnwcdn.com/mario-galaxy-1-2-switch.jpg",
-      "Title": "Second Post",
-      "Description": "Super Mario Galaxy\n+\nSuper Mario Galaxy 2\n\n Disponivel agora na Nintendo Switch\n e Nintendo Switch 2",
-      "AudioYoutube": "https://youtu.be/KgJtpH3_4Hk",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 30,
-      "StartAudioTime": "00:00:00",
-      "VolumeAudio": "volume=0.25"
-    },
-    {
       "DateTime": "2025-10-10T11:30:00Z",
       "Image": "https://assetsio.gnwcdn.com/mario-galaxy-1-2-switch.jpg",
       "Title": "Second Post",
@@ -24,19 +11,6 @@
       "TypeOfColor": "white",
       "Duraction_Video": 20,
       "StartAudioTime": "00:00:47",
-      "VolumeAudio": "volume=0.35"
-    },
-    {
-      "DateTime": "2025-10-02T11:30:00Z",
-      "Image": "https://www.perfectly-nintendo.com/wp-content/uploads/2025/05/Pokemon-Legends-ZA.jpg",
-      "Title": "Second Post",
-      "Description": "Pokémon Legends: Z-A já está disponivel\n\n Aventura-te com o teu pokémon\nEm kalos e descobre os maiores\n \"Misterios\"",
-      "AudioYoutube": "https://youtu.be/-QC9VNKb0QY",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 30,
-      "StartAudioTime": "00:01:47",
       "VolumeAudio": "volume=0.35"
     }
   ]
