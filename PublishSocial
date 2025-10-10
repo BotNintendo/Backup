@@ -1,19 +1,6 @@
 {
   "Publish": [
     {
-      "DateTime": "2025-10-10T11:30:00Z",
-      "Image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/02/little-nightmares-II-shining-flashlight.jpg",
-      "Title": "Second Post",
-      "Description": "Little Nightmares III 2\n\n Aventura-te num mundo de terror\nDisponivel agora na Nintendo Switch 2",
-      "AudioYoutube": "https://youtu.be/C7EYtnjv0Jo",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 20,
-      "StartAudioTime": "00:00:47",
-      "VolumeAudio": "volume=0.35"
-    },
-    {
       "DateTime": "2025-10-16T11:30:00Z",
       "Image": "https://www.perfectly-nintendo.com/wp-content/uploads/2025/05/Pokemon-Legends-ZA.jpg",
       "Title": "Second Post",
