@@ -1,17 +1,3 @@
 {
-  "Publish": [
-    {
-      "DateTime": "2025-10-16T11:30:00Z",
-      "Image": "https://www.perfectly-nintendo.com/wp-content/uploads/2025/05/Pokemon-Legends-ZA.jpg",
-      "Title": "Second Post",
-      "Description": "Pokémon Legends: Z-A já está disponivel\n\n Aventura-te com o teu pokémon\nEm kalos e descobre os maiores\n \"Misterios\"",
-      "AudioYoutube": "https://youtu.be/-QC9VNKb0QY",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 30,
-      "StartAudioTime": "00:01:47",
-      "VolumeAudio": "volume=0.35"
-    }
-  ]
+  "Publish": []
 }
