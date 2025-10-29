@@ -12,7 +12,7 @@
       "Duraction_Video": 35,
       "StartAudioTime": "00:00:00",
       "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": true 
+      "DeleteAfterPublish": true
     },
     {
       "DateTime": "2026-10-20T01:30:00Z",
@@ -26,7 +26,7 @@
       "Duraction_Video": 20,
       "StartAudioTime": "00:00:207",
       "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": false 
+      "DeleteAfterPublish": false
     }
   ]
 }
