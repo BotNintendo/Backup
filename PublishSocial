@@ -27,6 +27,6 @@
       "StartAudioTime": "00:00:207",
       "VolumeAudio": "volume=0.35",
       "DeleteAfterPublish": false 
-    },
+    }
   ]
 }
