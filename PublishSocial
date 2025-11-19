@@ -26,7 +26,7 @@
       "Duraction_Video": 31,
       "StartAudioTime": "00:00:00",
       "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": false
+      "DeleteAfterPublish": true
     }
   ]
 }
