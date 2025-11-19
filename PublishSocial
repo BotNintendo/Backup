@@ -1,20 +1,6 @@
 {
   "Publish": [
     {
-      "DateTime": "2023-10-20T01:30:00Z",
-      "Image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_SuperMarioBrosWonder_image1600w.jpg",
-      "Title": "Second Post",
-      "Description": "O jogo Super Mario Bros Wonder\nSaiu à {x} anos. Ajuda o Príncipe a ter a\nflor fenomenal\n\n Disponível na Nintendo Switch\n e Nintendo Switch 2",
-      "AudioYoutube": "https://youtu.be/watch?v=dFi-E4q0Ulg",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 20,
-      "StartAudioTime": "00:00:207",
-      "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": false
-    },
-    {
       "DateTime": "2025-11-20T01:30:00Z",
       "Image": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Kirby-Air-Riders-Release-Date-728x407.png",
       "Title": "Second Post",
