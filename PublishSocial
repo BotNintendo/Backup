@@ -1,18 +1,3 @@
 {
-  "Publish": [
-    {
-      "DateTime": "2025-11-20T01:30:00Z",
-      "Image": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Kirby-Air-Riders-Release-Date-728x407.png",
-      "Title": "Second Post",
-      "Description": "O jogo Kirby Air Riders \\n Já está disponivel na \\nNintendo Switch 2.\\n\\n Preparados para correr com kirby?",
-      "AudioYoutube": "https://youtu.be/l9gXJLQ77qA",
-      "ImageTemplate": "",
-      "TypeOfFont": "./FontStyle.ttf",
-      "TypeOfColor": "white",
-      "Duraction_Video": 31,
-      "StartAudioTime": "00:00:00",
-      "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": true
-    }
-  ]
+  "Publish": []
 }
