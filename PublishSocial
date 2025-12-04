@@ -3,7 +3,7 @@
       "DateTime": "2025-12-04T01:30:00Z",
       "Image": "https://assetsio.gnwcdn.com/Metroid-Prime-4-Beyond_RVT179k.jpg",
       "Title": "Second Post",
-      "Description": "O jogo Metroid Prime 4 Beyond\\n já saiu na Nintendo Switch.\\n Aventurem-se no papel da Samus e explorem o universo",
+      "Description": "O jogo Metroid Prime 4 Beyond\\n já saiu na Nintendo Switch.\\n Aventurem-se no papel da Samus \\ne explorem o universo",
       "AudioYoutube": "https://www.youtube.com/watch?v=aJKxDIevi1Q",
       "ImageTemplate": "",
       "TypeOfFont": "./FontStyle.ttf",
@@ -11,6 +11,6 @@
       "Duraction_Video": 30,
       "StartAudioTime": "00:00:25",
       "VolumeAudio": "volume=0.35",
-      "DeleteAfterPublish": false
+      "DeleteAfterPublish": true
     }]
 }
