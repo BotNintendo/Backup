@@ -1,3 +1,71 @@
 {
-  "Publish": []
+  "Publish": [
+    {
+      "DateTime": "2023-10-20T01:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_SuperMarioBrosWonder_image1600w.jpg",
+      "Title": "Second Post",
+      "Description": "O jogo Super Mario Bros Wonder\nSaiu à {x} anos. Ajuda o Príncipe a ter a\nflor fenomenal\n\n Disponível na Nintendo Switch\n e Nintendo Switch 2",
+      "AudioYoutube": "https://youtu.be/watch?v=dFi-E4q0Ulg",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 20,
+      "StartAudioTime": "00:00:207",
+      "VolumeAudio": "volume=0.35",
+      "DeleteAfterPublish": false
+    },
+    {
+      "DateTime": "2026-02-26T01:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/residentevilrequiem/16x9_ResidentEvilRequiem_02_image1600w.jpg",
+      "Title": "Resident Evil Requiem",
+      "Description": "Está a chegar uma nova era \ndo terror de sobrevivência\n\n Disponível na Nintendo Switch 2",
+      "AudioYoutube": "",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 20,
+      "StartAudioTime": "00:00:00",
+      "VolumeAudio": "volume=0.35",
+      "DeleteAfterPublish": true
+    },{
+      "DateTime": "2026-03-05T01:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pokemonpokopia/16x9_NSwitch2_PokemonPokopia_image1600w.png",
+      "Title": "Pokémon Pokopia",
+      "Description": "Aventura-te neste jogo relaxante\n que chega a consola Nintendo Switch 2.\nJunta-te ao mundo Pokémon como ditto!",
+      "AudioYoutube": "https://youtu.be/H7awWKXT4T8",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 25,
+      "StartAudioTime": "00:00:10",
+      "VolumeAudio": "volume=0.35",
+      "DeleteAfterPublish": true
+    },{
+      "DateTime": "2026-03-13T01:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/monsterhunterstories3twistedreflection/16x9_MonsterHunterStories3TwistedReflection_image1600w.jpg",
+      "Title": "Monster Hunter Stories 3: Twisted Reflection",
+      "Description": "Descobre um universo com dragões!\n Que esta disponivel na Nintendo Switch 2",
+      "AudioYoutube": "https://youtu.be/miE3epmzjP4",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 25,
+      "StartAudioTime": "00:00:17",
+      "VolumeAudio": "volume=0.35",
+      "DeleteAfterPublish": true
+    },{
+      "DateTime": "2026-03-26T01:30:00Z",
+      "Image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/supermariobroswonderns2edbellabelpark/16x9_HP_NSwitch2_SMBWonderN2SEBP_PT_pt_image1600w.jpg",
+      "Title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Vamos ao Parque Belabel",
+      "Description": "O Mario traz uma nova DLC\nno parque Belabel.\nJunta-te a ele e diverte-te.\nO jogo está em português e tens \nIMENSA diversão!\n\nDLC disponivel na Nintendo Switch 2",
+      "AudioYoutube": "https://youtu.be/tE-JcxDcRKU",
+      "ImageTemplate": "",
+      "TypeOfFont": "./FontStyle.ttf",
+      "TypeOfColor": "white",
+      "Duraction_Video": 35,
+      "StartAudioTime": "00:00:10",
+      "VolumeAudio": "volume=0.35",
+      "DeleteAfterPublish": true
+    }
+  ]
 }
