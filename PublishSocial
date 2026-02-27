@@ -10,7 +10,7 @@
       "TypeOfFont": "./FontStyle.ttf",
       "TypeOfColor": "white",
       "Duraction_Video": 20,
-      "StartAudioTime": "00:00:207",
+      "StartAudioTime": "00:00:20",
       "VolumeAudio": "volume=0.35",
       "DeleteAfterPublish": false
     },
